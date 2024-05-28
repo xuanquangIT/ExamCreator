@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-creator-app/static/css/main.e6c13ad2.css",
+    "main.js": "/test-creator-app/static/js/main.dc333f09.js",
+    "static/js/453.e2d6240e.chunk.js": "/test-creator-app/static/js/453.e2d6240e.chunk.js",
+    "index.html": "/test-creator-app/index.html",
+    "main.e6c13ad2.css.map": "/test-creator-app/static/css/main.e6c13ad2.css.map",
+    "main.dc333f09.js.map": "/test-creator-app/static/js/main.dc333f09.js.map",
+    "453.e2d6240e.chunk.js.map": "/test-creator-app/static/js/453.e2d6240e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dc333f09.js"
+  ]
+}
